@@ -4,8 +4,14 @@ title: 关于我们
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+本站专为解决小区内固定车位配置不合理问题。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+例如：我家在南边，停车位在北边，每次从车位走到家需要10分钟，白白浪费时间。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+您可以在本站主页浏览发布的车位信息，找到合适的车位以后，可以自行联系车位主人进行交换。
+
+您如果也想发布自己的车位信心到主页供他人浏览，可以给站长发邮件。
+
+QQ: 290071060
+
+邮箱: 290071060@qq.com
